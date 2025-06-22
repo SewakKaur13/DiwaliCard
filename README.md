@@ -32,7 +32,3 @@ As a developer, I wanted to go beyond traditional greetings and create something
 - CSS (with animations)  
 - JavaScript (DOM + Audio interaction)
 
-## 📸 Preview
-
-> Add screenshots or GIFs of the project running
-
